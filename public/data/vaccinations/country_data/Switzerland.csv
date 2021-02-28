@@ -1,6 +1,33 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Switzerland,2020-12-23,Pfizer/BioNTech,https://www.nytimes.com/2020/12/23/world/switzerland-begins-covid-19-vaccinations.html,0,,
-Switzerland,2021-01-14,Pfizer/BioNTech,https://twitter.com/srfnews/status/1349727241391857670,66000,,
-Switzerland,2021-01-19,Pfizer/BioNTech,https://www.srf.ch/news/schweiz/das-neueste-zur-coronakrise-bag-110-000-impfungen-in-der-schweiz-durchgefuehrt,110000,,
-Switzerland,2021-01-21,Pfizer/BioNTech,https://www.bag.admin.ch/dam/bag/fr/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/zahlen-covid-19-impfung.pdf.download.pdf/zahlen-covid-19-impfung.pdf,169783,,
-Switzerland,2021-01-24,Pfizer/BioNTech,https://www.bag.admin.ch/dam/bag/fr/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/zahlen-covid-19-impfung.pdf.download.pdf/zahlen-covid-19-impfung.pdf,197368,,
+Switzerland,2021-01-24,Pfizer/BioNTech,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,195943,,
+Switzerland,2021-01-25,Pfizer/BioNTech,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,202519,,
+Switzerland,2021-01-26,Pfizer/BioNTech,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,209591,,
+Switzerland,2021-01-27,Pfizer/BioNTech,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,259550,,
+Switzerland,2021-01-28,Pfizer/BioNTech,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,266952,,
+Switzerland,2021-01-29,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,273403,,
+Switzerland,2021-01-30,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,274139,,
+Switzerland,2021-01-31,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,314331,,
+Switzerland,2021-02-01,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,320466,,
+Switzerland,2021-02-02,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,327263,,
+Switzerland,2021-02-03,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,369104,,
+Switzerland,2021-02-04,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,376369,,
+Switzerland,2021-02-05,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,382779,,
+Switzerland,2021-02-06,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,383598,,
+Switzerland,2021-02-07,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,413464,,
+Switzerland,2021-02-08,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,421249,,
+Switzerland,2021-02-09,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,429668,,
+Switzerland,2021-02-10,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,481807,,
+Switzerland,2021-02-11,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,491126,,
+Switzerland,2021-02-12,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,501665,,
+Switzerland,2021-02-13,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,503189,,
+Switzerland,2021-02-14,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,541772,439692,102080
+Switzerland,2021-02-15,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,551333,444469,106864
+Switzerland,2021-02-16,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,562216,449639,112577
+Switzerland,2021-02-17,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,612524,474934,137590
+Switzerland,2021-02-18,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,624372,480322,144050
+Switzerland,2021-02-19,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,634548,484230,150318
+Switzerland,2021-02-20,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,636239,484809,151430
+Switzerland,2021-02-21,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,673949,500938,173011
+Switzerland,2021-02-22,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,682090,503809,178281
+Switzerland,2021-02-23,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,691902,507444,184458
+Switzerland,2021-02-24,"Moderna, Pfizer/BioNTech",https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH,748791,527979,220812

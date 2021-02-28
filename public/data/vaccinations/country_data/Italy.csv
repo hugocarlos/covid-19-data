@@ -1,34 +1,63 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Italy,2020-12-27,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,6947,6947,0
-Italy,2020-12-28,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,7895,7895,0
-Italy,2020-12-29,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,8801,8801,0
-Italy,2020-12-30,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,13393,13393,0
-Italy,2020-12-31,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,38458,38458,0
-Italy,2021-01-01,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,49366,49366,0
-Italy,2021-01-02,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,87129,87129,0
-Italy,2021-01-03,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,121936,121936,0
-Italy,2021-01-04,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,189465,189465,0
-Italy,2021-01-05,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,267840,267840,0
-Italy,2021-01-06,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,332257,332257,0
-Italy,2021-01-07,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,422525,422525,0
-Italy,2021-01-08,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,515934,515934,0
-Italy,2021-01-09,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,601000,601000,0
-Italy,2021-01-10,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,660463,660463,0
-Italy,2021-01-11,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,739786,739786,0
-Italy,2021-01-12,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,819352,819352,0
-Italy,2021-01-13,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,910664,910664,0
-Italy,2021-01-14,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1000329,1000329,0
-Italy,2021-01-15,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1084630,1084630,0
-Italy,2021-01-16,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1145650,1145643,7
-Italy,2021-01-17,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1181066,1178261,2805
-Italy,2021-01-18,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1221544,1214376,7168
-Italy,2021-01-19,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1252414,1243474,8940
-Italy,2021-01-20,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1280659,1267317,13342
-Italy,2021-01-21,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1314039,1281653,32386
-Italy,2021-01-22,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1338948,1292815,46133
-Italy,2021-01-23,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1376449,1298151,78298
-Italy,2021-01-24,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1409632,1300883,108749
-Italy,2021-01-25,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1476056,1305071,170985
-Italy,2021-01-26,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1553191,1308956,244235
-Italy,2021-01-27,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1620727,1314262,306465
-Italy,2021-01-28,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1653027,1314960,338067
+Italy,2020-12-27,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,7014,7014,0
+Italy,2020-12-28,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,7986,7986,0
+Italy,2020-12-29,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,8914,8914,0
+Italy,2020-12-30,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,13582,13582,0
+Italy,2020-12-31,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,38843,38843,0
+Italy,2021-01-01,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,49881,49881,0
+Italy,2021-01-02,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,88369,88369,0
+Italy,2021-01-03,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,123481,123481,0
+Italy,2021-01-04,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,191799,191799,0
+Italy,2021-01-05,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,271230,271230,0
+Italy,2021-01-06,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,336332,336332,0
+Italy,2021-01-07,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,428110,428110,0
+Italy,2021-01-08,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,523329,523329,0
+Italy,2021-01-09,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,610125,610125,0
+Italy,2021-01-10,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,670430,670430,0
+Italy,2021-01-11,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,751018,751018,0
+Italy,2021-01-12,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,832356,832356,0
+Italy,2021-01-13,Pfizer/BioNTech,https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,925551,925551,0
+Italy,2021-01-14,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1017995,1017995,0
+Italy,2021-01-15,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1106200,1106200,0
+Italy,2021-01-16,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1170597,1170597,0
+Italy,2021-01-17,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1206939,1204141,2798
+Italy,2021-01-18,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1248900,1241699,7201
+Italy,2021-01-19,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1280853,1271958,8895
+Italy,2021-01-20,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1310427,1297060,13367
+Italy,2021-01-21,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1345033,1312225,32808
+Italy,2021-01-22,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1370923,1324224,46699
+Italy,2021-01-23,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1409260,1329877,79383
+Italy,2021-01-24,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1442872,1332893,109979
+Italy,2021-01-25,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1511299,1337379,173920
+Italy,2021-01-26,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1590864,1341515,249349
+Italy,2021-01-27,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1661099,1347367,313732
+Italy,2021-01-28,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1754046,1351834,402212
+Italy,2021-01-29,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1850830,1356356,494474
+Italy,2021-01-30,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1940609,1360314,580295
+Italy,2021-01-31,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,1999806,1362774,637032
+Italy,2021-02-01,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2084737,1367100,717637
+Italy,2021-02-02,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2171763,1373349,798414
+Italy,2021-02-03,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2270211,1382454,887757
+Italy,2021-02-04,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2376137,1395675,980462
+Italy,2021-02-05,"Moderna, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2480986,1413158,1067828
+Italy,2021-02-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2556331,1427481,1128850
+Italy,2021-02-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2596383,1436417,1159966
+Italy,2021-02-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2661913,1462967,1198946
+Italy,2021-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2727336,1497391,1229945
+Italy,2021-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2798426,1541992,1256434
+Italy,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2870901,1596380,1274521
+Italy,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2942575,1654084,1288491
+Italy,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,2994432,1699706,1294726
+Italy,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3023430,1726431,1296999
+Italy,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3084574,1782018,1302556
+Italy,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3153784,1845621,1308163
+Italy,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3231338,1914259,1317079
+Italy,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3318347,1993996,1324351
+Italy,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3406890,2076596,1330294
+Italy,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3478724,2144627,1334097
+Italy,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3527668,2191548,1336120
+Italy,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3629229,2287963,1341266
+Italy,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3730618,2384270,1346348
+Italy,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3843424,2489384,1354040
+Italy,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,3960504,2594931,1365573
+Italy,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/italia/covid19-opendata-vaccini/blob/master/dati/somministrazioni-vaccini-summary-latest.csv,4074575,2696588,1377987

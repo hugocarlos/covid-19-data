@@ -1,6 +1,7 @@
-import re
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
+import tabula
 import vaxutils
 
 
@@ -20,20 +21,21 @@ def main():
 
     date = soup.find(class_="post-date").find(class_="meta-text").text.strip()
     date = vaxutils.clean_date(date, "%b %d, %Y")
-    
-    main_text = soup.find(class_="entry-content-text").text
 
-    regex = r"Număr total de doze administrate de vaccin împotriva COVID-19 Pfizer BioNTech \(începând cu data de 27 decembrie 2020\): ([\d\.]+), la un număr de [\d\.]+ persoane din care:\n.\s*[\d\.]+\s+persoane vaccinate cu 1 doză;\n.\s*([\d\.]+)\s+persoane vaccinate cu 2 doze"
-    
-    counts = re.search(regex, main_text)
+    url = soup.find(class_="entry-content-text").find_all("a")[-1]["href"]
 
-    total_vaccinations = counts.group(1)
-    total_vaccinations = vaxutils.clean_count(total_vaccinations)
+    kwargs = {'pandas_options': {'dtype': str , 'header': None}}
+    dfs_from_pdf = tabula.read_pdf(url, pages="all", **kwargs)
+    df = dfs_from_pdf[0]
 
-    people_fully_vaccinated = counts.group(2)
-    people_fully_vaccinated = vaxutils.clean_count(people_fully_vaccinated)
+    values = df[df[0] == "Total"].dropna()[2].str.split(" ")
+    values = [vaxutils.clean_count(val) for val in pd.core.common.flatten(values)]
+    assert len(values) == 2
 
-    people_vaccinated = total_vaccinations - people_fully_vaccinated
+    people_fully_vaccinated = values[1]
+    one_dose_only = values[0]
+    people_vaccinated = one_dose_only + people_fully_vaccinated
+    total_vaccinations = people_fully_vaccinated + people_vaccinated
 
     vaxutils.increment(
         location="Romania",
@@ -42,7 +44,7 @@ def main():
         people_fully_vaccinated=people_fully_vaccinated,
         date=date,
         source_url=url,
-        vaccine="Pfizer/BioNTech"
+        vaccine="Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
     )
 
 

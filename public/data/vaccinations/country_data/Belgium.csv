@@ -1,29 +1,58 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Belgium,2020-12-28,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,298,298,
-Belgium,2020-12-29,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,299,299,0
-Belgium,2020-12-30,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,778,778,0
-Belgium,2020-12-31,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,787,787,0
-Belgium,2021-01-04,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,788,788,0
-Belgium,2021-01-05,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,2287,2287,0
-Belgium,2021-01-06,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,6061,6061,0
-Belgium,2021-01-07,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,14089,14089,0
-Belgium,2021-01-08,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,23167,23167,0
-Belgium,2021-01-09,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,26343,26343,0
-Belgium,2021-01-10,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,26736,26736,0
-Belgium,2021-01-11,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,32161,32161,0
-Belgium,2021-01-12,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,47356,47356,0
-Belgium,2021-01-13,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,67416,67416,0
-Belgium,2021-01-14,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,88467,88467,0
-Belgium,2021-01-15,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,110211,110211,0
-Belgium,2021-01-16,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,115063,115063,0
-Belgium,2021-01-17,Pfizer/BioNTech,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,117907,117907,0
-Belgium,2021-01-18,"Moderna, Pfizer/BioNTech",https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,127789,127680,109
-Belgium,2021-01-19,"Moderna, Pfizer/BioNTech",https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,145120,144830,290
-Belgium,2021-01-20,"Moderna, Pfizer/BioNTech",https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,163977,163264,713
-Belgium,2021-01-21,"Moderna, Pfizer/BioNTech",https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,190568,189855,713
-Belgium,2021-01-22,"Moderna, Pfizer/BioNTech",https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,216058,215314,744
-Belgium,2021-01-23,"Moderna, Pfizer/BioNTech",https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,222997,222246,751
-Belgium,2021-01-24,"Moderna, Pfizer/BioNTech",https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,224687,223936,751
-Belgium,2021-01-25,"Moderna, Pfizer/BioNTech",https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,233225,232474,751
-Belgium,2021-01-26,"Moderna, Pfizer/BioNTech",https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,241101,239159,1942
-Belgium,2021-01-27,"Moderna, Pfizer/BioNTech",https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/hOMwB,246870,243412,3458
+Belgium,2020-12-28,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,298,298,0
+Belgium,2020-12-29,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,299,299,0
+Belgium,2020-12-30,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,777,777,0
+Belgium,2020-12-31,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,786,786,0
+Belgium,2021-01-01,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,793,793,0
+Belgium,2021-01-05,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,2368,2368,0
+Belgium,2021-01-06,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,6234,6234,0
+Belgium,2021-01-07,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,14372,14372,0
+Belgium,2021-01-08,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,23523,23523,0
+Belgium,2021-01-09,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,26724,26724,0
+Belgium,2021-01-10,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,27121,27121,0
+Belgium,2021-01-11,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,32571,32571,0
+Belgium,2021-01-12,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,48092,48092,0
+Belgium,2021-01-13,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,69072,69072,0
+Belgium,2021-01-14,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,91853,91853,0
+Belgium,2021-01-15,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,114942,114942,0
+Belgium,2021-01-16,Pfizer/BioNTech,https://epistat.wiv-isp.be/covid/,119969,119969,0
+Belgium,2021-01-17,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,123257,123257,0
+Belgium,2021-01-18,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,134231,134122,109
+Belgium,2021-01-19,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,153454,153164,290
+Belgium,2021-01-20,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,174407,173695,712
+Belgium,2021-01-21,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,204234,203522,712
+Belgium,2021-01-22,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,233333,232590,743
+Belgium,2021-01-23,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,241424,240674,750
+Belgium,2021-01-24,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,243300,242550,750
+Belgium,2021-01-25,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,254534,253784,750
+Belgium,2021-01-26,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,266802,264577,2225
+Belgium,2021-01-27,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,282906,277497,5409
+Belgium,2021-01-28,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,305095,292608,12487
+Belgium,2021-01-29,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,324944,304140,20804
+Belgium,2021-01-30,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,329387,305711,23676
+Belgium,2021-01-31,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,330281,306277,24004
+Belgium,2021-02-01,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,337856,310160,27696
+Belgium,2021-02-02,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,360758,319850,40908
+Belgium,2021-02-03,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,389302,329164,60138
+Belgium,2021-02-04,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,420982,338058,82924
+Belgium,2021-02-05,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,450192,345484,104708
+Belgium,2021-02-06,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,456419,346698,109721
+Belgium,2021-02-07,"Moderna, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,459536,346997,112539
+Belgium,2021-02-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,469253,349227,120026
+Belgium,2021-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,495600,356688,138912
+Belgium,2021-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,520008,363146,156862
+Belgium,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,554271,370506,183765
+Belgium,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,587198,376585,210613
+Belgium,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,595330,377145,218185
+Belgium,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,597248,377218,220030
+Belgium,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,610391,379041,231350
+Belgium,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,624753,383380,241373
+Belgium,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,643419,390397,253022
+Belgium,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,668458,400606,267852
+Belgium,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,696501,417272,279229
+Belgium,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,701411,420807,280604
+Belgium,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,703447,422594,280853
+Belgium,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,713998,430789,283209
+Belgium,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,729867,440535,289332
+Belgium,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,746199,451774,294425
+Belgium,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://epistat.wiv-isp.be/covid/,757229,461060,296169
